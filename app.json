@@ -1,0 +1,84 @@
+{
+  "name": "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢",
+  "description": "𝗡𝗘𝗭𝗨𝗞𝗢 Multi Device whatsapp bot",
+  "logo": "https://i.imgur.com/PRKcWJ0.jpeg",
+  "keywords": ["whatsapp"],
+  "repository": "https://github.com/godzenitsu/NEZUKO-XD",
+  "website": "https://github.com/Dinkenser12",
+  "success_url": "https://github.com/godzenitsu",
+  "stack": "container",
+  "env": {
+    "ANTI_LINK": {
+      "description": "true/false",
+      "required": false
+    },
+    "ANTILINK_ACTION": {
+      "description": "kick",
+      "required": false
+    },
+    "SESSION_ID": {
+      "description": "Ezra-XD session id",
+      "required": true
+    },
+    "LOGS": {
+      "description": "need to show message logs ?",
+      "required": false
+     },
+     "AUDIO_DATA": {
+      "description": "audio data , title;artist;image url",
+      "required": "false",
+      "value": "𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨🌈;𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢; https://i.imgur.com/Ou56ggv.jpeg"
+     },
+     "CAPTION": {
+      "description": "enter your media caption",
+      "required": "false",
+      "value": "\n\n\n\n\n 𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢💕"
+    },
+       "STICKER_DATA": {
+      "description": "Sticker pack name, eg : Ezra;©️Louis-X0",
+      "required": "false",
+      "value": "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢"
+    },
+       "BOT_INFO": {
+      "description": "Bot info : botname;ownername;imageurl - image or video",
+      "required": "false",
+      "value": "𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢;𝗚𝗢𝗗 𝗭𝗘𝗡𝗜𝗧𝗦𝗨🌈;https://i.imgur.com/4acVqY7.jpeg"
+    },
+     "ALWAYS_ONLINE": {
+      "description": "Bot online online : true",
+      "required": "false",
+      "value": "false"
+    },
+    "SUDO": {
+      "description": "sudo numbers with country code seperate with , for multiple numbers",
+      "required": false
+    },
+    "WORK_TYPE": {
+      "description": "bot work mode",
+      "required": "true",
+      "value": "public"
+     },
+    "PREFIX": {
+      "description": "Example 1: ^[.,!#]  example 2 ^ 👈🏻 Handlers disable",
+      "required": true,
+       "value":"^[.,#]"
+     },
+    "HEROKU_APP_NAME": {
+      "description": "Heroku app name, same as above entered",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Heroku account api key, https://dashboard.heroku.com/account",
+      "required": true
+     }
+ },
+ "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      },
+      {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      }]
+  }
