@@ -16,7 +16,7 @@ command({
     type: "gfx",
 }, async (message, match) => {
 	match = match || message.reply_message.text;
-	if(!match) return await message.reply('*Example:* *gfx1 GOD ZENITSU*_');
+	if(!match) return await message.reply('*Example:* *gfx1 LORD ZENITSU*_');
 	if(match.startsWith(1)) return;
 	let options = {apikey:'inrl-bot-mdaqz3ks6md7'}, n= 1;
 	if(match.includes('|')){
