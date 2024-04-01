@@ -75,7 +75,7 @@ async function Abhiy() {
 
     if (connection === "open") {
     
-      console.log("𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗟𝗢𝗚𝗜𝗡𝗘𝗗 𝗜𝗡𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣🧩");
+      console.log("𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗟𝗢𝗚𝗜𝗡𝗘𝗗 𝗜𝗡𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣🔌");
       console.log("𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗜𝗡𝗚 𝗣𝗟𝗨𝗚𝗜𝗡𝗦🛠️");
 
       let plugins = await PluginDB.findAll();
