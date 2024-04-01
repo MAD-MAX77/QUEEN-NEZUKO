@@ -8,8 +8,8 @@ command(
     type: "heroku" 
   },
   async (message, match, mm) => {
-    let zeta = X.SUDO
-message.reply("```" + `SUDO number are : ${zeta}` + "```")
+    let zenitsu= X.SUDO
+message.reply("```" + `SUDO number are : ${zenitsu}` + "```")
   }
 );
 
