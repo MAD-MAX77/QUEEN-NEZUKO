@@ -32,7 +32,7 @@
      "CAPTION": {
       "description": "enter your media caption",
       "required": "false",
-      "value": "\n\n\n\n\n 𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢💕"
+      "value": "𝗔 𝗠𝗘𝗗𝗜𝗔 𝗕𝗬 𝗤𝗨𝗘𝗘𝗡 𝗡𝗘𝗭𝗨𝗞𝗢"
     },
        "STICKER_DATA": {
       "description": "Sticker pack name, eg : NEZUKO/ZENITSU",
