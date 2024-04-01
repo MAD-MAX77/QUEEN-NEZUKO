@@ -63,7 +63,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: false,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (X)}, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (X)}, {quoted: message })
 });
 
 command({
@@ -123,7 +123,7 @@ mediaUrl: "",
 mediaType: 1,
 showAdAttribution: false,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PRKcWJ0.jpeg" }}, caption: (X)}, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/xZ45hxR.jpeg" }}, caption: (X)}, {quoted: message })
 });
 
 command({
