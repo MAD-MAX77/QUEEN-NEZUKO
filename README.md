@@ -33,7 +33,9 @@ Xasena
 
 <a><img src='https://i.imgur.com/xZ45hxR.jpeg'/></a>
 
- 
+<a href="https://whatsapp.com/channel/0029VaV63w1JENxsHsm43B0h"><img alt="WHATSAPP 1" src="https://img.shields.io/badge/-WHATSAPP1%20-black?style=for-the-badge&logo=WHATSAPP1&logoColor=white"/></a>
+
+<a href="https://chat.whatsapp.com/D8fCfh8kSC0EDRHeMCrIDy"><img alt="WHATSAPP 2" src="https://img.shields.io/badge/-WHATSAPP2%20-black?style=for-the-badge&logo=WHATSAPP2&logoColor=white"/></a> 
 
 ### External-Plugins
 
