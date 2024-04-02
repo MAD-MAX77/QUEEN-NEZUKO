@@ -9,7 +9,7 @@ Xasena
 
 1. Get Session I'D.
     <br>
-<a href='https://queen-nezuko.onrender.com/' target="_blank"><img alt='COMING SOON' src='https://img.shields.io/badge/SCAN-QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=blue'/></a>
+<a href='https://queen-nezuko.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/SCAN-QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=blue'/></a>
 
 ***
 ### Deploy
@@ -31,7 +31,7 @@ Xasena
 
 
 
-<a><img src='https://i.imgur.com/xZ45hxR.jpeg'/></a>
+<a><img src='https://i.imgur.com/Mt93ltE.mp4'/></a>
 
  
 
