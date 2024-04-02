@@ -53,7 +53,7 @@ Xasena
 <br>
 
 * [`ZENITSU`](https://github.com/godzenitsu)
-* [`NEZUKO`](NULL)
+* [`LOKI-SER`](https://github.com/Loki-Xer)
 
 
  </details>
