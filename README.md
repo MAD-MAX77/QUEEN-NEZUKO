@@ -26,8 +26,8 @@ Xasena
 
 
 ***
-* Join Group For Help
-<a href="https://chat.whatsapp.com/DcGABEejUwOG8YcgGOcizF"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* QUEEN NEZUKO SUPPORT
+<a href="https://nezukosupport.vercel.app/"><img alt="SUPPORT" src="https://img.shields.io/badge/-SUPPORT%20-grey?style=for-the-badge&logo=support&logoColor=white"/></a>
 
 
 
