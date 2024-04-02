@@ -9,7 +9,7 @@ Xasena
 
 1. Get Session I'D.
     <br>
-<a href='NULL' target="_blank"><img alt='COMING SOON' src='https://img.shields.io/badge/COMING-SOON-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=blue'/></a>
+<a href='https://queen-nezuko.onrender.com/' target="_blank"><img alt='COMING SOON' src='https://img.shields.io/badge/SCAN-QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=blue&color=blue'/></a>
 
 ***
 ### Deploy
